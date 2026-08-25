@@ -1,0 +1,4 @@
+this project takes user input of income, then about all expenses like fixed expense,shopping,investment,
+gift,travel,other etc. then return money spend and remaining money .
+then it calculates taxes on each spend and gives all money sum spend on taxes
+after that at last it give total money left.
