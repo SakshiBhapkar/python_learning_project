@@ -1,0 +1,57 @@
+
+ Question 1:What will be the output?
+x = 10
+y = 3
+print(x % y)
+A) 3
+B) 1
+C) 0
+D) 10
+
+ Question 2:Which keyword is used to stop a loop immediately?
+A) `continue`
+B) `pass`
+C) `break`
+D) `stop`
+
+
+
+Question 3:What will be the output?
+name = "Python"
+print(name[1:4])
+
+A) Pyt
+B) yth
+C) tho
+D) Python
+
+ Question 4:Which of the following is the correct way to take input from the user?
+
+A) `input("Enter name: ")`
+B) `get("Enter name: ")`
+C) `scan("Enter name: ")`
+D) `read("Enter name: ")`
+
+Question 5:What will be the output?
+
+age = 18
+
+if age >= 18:
+    print("Adult")
+else:
+    print("Minor")
+
+
+A) Minor
+B) Error
+C) 18
+D) Adult
+
+
+#answers
+
+B) 1
+C) break
+B) yth
+A) input("Enter name: ")
+D) Adult
